@@ -3,7 +3,7 @@ ML model that predicts the flight price using regression based algorithms and he
 
 Link: [https://flyguesser.herokuapp.com/](https://flyguesser.herokuapp.com/)
 
-[![](https://i.imgur.com/4VSHxE9.png?1)](https://flyguesser.herokuapp.com/)
+[![Web App GIF](https://i.imgur.com/yubxdsP.gif)](https://flyguesser.herokuapp.com/)
 
 ## Inspiration
 Nowadays, airline ticket prices can vary dynamically for the same flight. Customers are seeking to get the lowest price while airlines are trying to keep their overall revenue as high as possible and maximize their profit. Airlines use various kinds of computational techniques to increase their revenue such as demand prediction and price discrimination. 
